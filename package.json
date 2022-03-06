@@ -1,0 +1,15 @@
+{
+  "name": "docs-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leson/docs-gen.git",
+  "author": "leson <i.leson@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
