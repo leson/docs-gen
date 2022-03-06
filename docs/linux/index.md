@@ -1,2 +1,0 @@
-- [Home](/)
-- [shell](./shell.md)

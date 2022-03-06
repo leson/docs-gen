@@ -1,4 +1,14 @@
-[[toc]]
+---
+title: Linux - Shell Skills
+date: 2022-03-06
+author: Leson
+location: Xi'An  
+tags: 
+  - linux
+  - shell
+---
+
+<!-- [[toc]] -->
 
 # 基础知识
 ## 变量及基础数据结构

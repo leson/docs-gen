@@ -15,14 +15,14 @@ mkdir docs && echo '# Hello VuePress' > docs/README.md
 ```json
 {
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   }
 }
 ```
 ### running on local
 ```bash
-yarn docs:dev  
+yarn dev  
 ```
 
 ### deploy to leson.github.io
