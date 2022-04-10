@@ -2,7 +2,7 @@ module.exports = {
     title: '逢山开路，遇水架桥。',
     theme: '@vuepress/theme-blog',
     themeConfig: {
-        // smoothScroll: true,
+        smoothScroll: true,
         sidebar: 'auto',
         nav: [
             {
